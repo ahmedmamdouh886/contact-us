@@ -17,10 +17,10 @@
         }
     },
     "extra": {
-    "laravel": {
-        "providers": [
-            "Samara\\Contact\\ContactServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Samara\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
-}
 }
