@@ -14,7 +14,7 @@ class ContactServiceProvider extends ServiceProvider
 		$this->mergeConfigFrom(__DIR__.'/config/contact.php', 'contact');
 		$this->publishes([
 			__DIR__ . '/config/contact.php' => config_path('contact.php'),
-			__DIR__ . '/views' => resource_path('views/vendor/contact')
+			__DIR__.'/views' => base_path('resources/views/samara/todolist'),
 		]);
 	}
 	
