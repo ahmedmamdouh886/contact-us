@@ -20,7 +20,5 @@ php artisan migrate
 php artisan serve
 ``` 
 
-<hr>
-
 ### step 2
 Visit: http://localhost:8000/contacts
