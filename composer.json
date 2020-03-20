@@ -1,5 +1,5 @@
 {
-    "name": "samara/contact",
+    "name": "samara/contact-us",
     "description": "A simple contact us sends email to an admin and save the query in database.",
     "type": "library",
     "license": "MIT",
