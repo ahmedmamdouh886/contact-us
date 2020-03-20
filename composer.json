@@ -1,0 +1,19 @@
+{
+    "name": "samara/contact",
+    "description": "A simple contact us sends email to an admin and save the query in database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+    	{
+    		"name": "Ahmed Samara",
+    		"email": "ahmedmamdouh886@gmail.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Samara\\Contact\\": "src/"
+        }
+    }
+}
