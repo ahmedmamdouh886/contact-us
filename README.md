@@ -1,6 +1,6 @@
 ## Introduction
 
-A trivial contact us package sends an email to an admin and save the query in db.
+A trivial contact us package sends an email to an admin and save the query in DB.
 
 ## Installation
 
