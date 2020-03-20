@@ -11,7 +11,7 @@ A trivial contact us package sends an email to an admin and save the query in DB
 
 ## Steps
 
-### step 1 (build)
+### Step 1 (build)
 
 ```bash
 git clone https://github.com/ahmedmamdouh886/contact-us.git
