@@ -19,6 +19,7 @@ php artisan vendor:publish
 php artisan migrate
 php artisan serve
 ``` 
+__
 
 ### step 2
 Visit: http://localhost:8000/contacts
