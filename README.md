@@ -18,8 +18,8 @@ git clone https://github.com/ahmedmamdouh886/contact-us.git
 php artisan vendor:publish
 php artisan migrate
 ``` 
-### step 2 (configuration)
+### Step 2 (configuration)
 - Configure the mail driver and database connection in .env file.
 
-### step 3
+### Step 3
 Visit: http://localhost:8000/contacts
