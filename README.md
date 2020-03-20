@@ -17,8 +17,9 @@ A trivial contact us package sends an email to an admin and save the query in DB
 git clone https://github.com/ahmedmamdouh886/contact-us.git
 php artisan vendor:publish
 php artisan migrate
-php artisan serve
 ``` 
+### step 2 (configuration)
+- Configure the mail driver and database connection in .env file.
 
-### step 2
+### step 3
 Visit: http://localhost:8000/contacts
